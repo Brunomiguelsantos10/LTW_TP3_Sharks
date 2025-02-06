@@ -1,0 +1,138 @@
+[
+  {
+    "id": 1,
+    "title": "Tubarão-tecelão",
+    "image": {
+      "src": "tecelao.png",
+      "alt": "Tubarão esbelto com um focinho longo, estreito e pontiagudo, brânquias longas e fendas pequenas, dentes estreitos e afiados.."
+    },
+    "lat": 44.5588,
+    "lon": -80.344
+  },
+  {
+    "id": 2,
+    "title": "Marracho-de pontas-negras",
+    "image": {
+      "src": "marrancho.png",
+      "alt": "Tubarão robusto com um focinho longo, estreito e pontiagudo, fendas branquiais longas.."
+    },
+    "lat": 25,
+    "lon": 0
+  },
+  {
+    "id": 3,
+    "title": "Marracho-de-pontas-brancas",
+    "image": {
+      "src": "marranchobranco.png",
+      "alt": "Tubarão robusto com focinho arredondado e dentes superiores triangulares, além de uma crista interdorsal."
+    },
+    "lat": 27.9881,
+    "lon": 86.925
+  },
+  {
+    "id": 4,
+    "title": "Tubarão-faqueta",
+    "image": {
+      "src": "faqueta.png",
+      "alt": "Tubarão com um corpo esbelto com focinho arredondado, olhos circulares com membranas protetoras e dentes largos e serrilhados."
+    },
+    "lat": 18.2208,
+    "lon": -66.5901
+  },
+  {
+    "id": 5,
+    "title": "Tubarão-cinzento",
+    "image": {
+      "src": "cinzento.png",
+      "alt": "Tubarão robusto com um focinho moderadamente longo e arredondado, dentes superiores altos, triangulares e serrilhados, e uma crista interdorsal;."
+    },
+    "lat": 37.9715,
+    "lon": 23.7257
+  },
+  {
+    "id": 6,
+    "title": "Tubarão-branco",
+    "image": {
+      "src": "tubaraobranco.png",
+      "alt": "Tubarão com um enorme fuso com olhos pretos marcantes, focinho cónico e dentes grandes, triangulares e serrilhados;."
+    },
+    "lat": 37.9715,
+    "lon": 23.7257
+  },
+  {
+    "id": 7,
+    "title": "Anequim",
+    "image": {
+      "src": "anequim.png",
+      "alt": "Tubarão grande e em forma de fuso, com olhos grandes e pretos, focinho afiado e dentes grandes, estreitos e curvos com bordas lisas.;."
+    },
+    "lat": 37.9715,
+    "lon": 23.7257
+  },
+  {
+    "id": 8,
+    "title": "Tubarão-sardo",
+    "image": {
+      "src": "sardo.png",
+      "alt": "Tubarão com corpo robusto e fusiforme. Possui olhos grandes e negros, focinho afilado e boca grande com dentes pequenos de margens suaves e estreitos, com cúspides laterais.;."
+    },
+    "lat": 37.9715,
+    "lon": 23.7257
+  },
+  {
+    "id": 9,
+    "title": "Cação-corre-corre",
+    "image": {
+      "src": "cassaocorrecorre.png",
+      "alt": "Espécie de corpo extremamente esguio. A boca é longa e fortemente arqueada, com sulcos muito longos nos cantos que se estendem para ambas as mandíbulas.;."
+    },
+    "lat": 37.9715,
+    "lon": 23.7257
+  },
+  {
+    "id": 10,
+    "title": "Tubarão Buldogue",
+    "image": {
+      "src": "buldogue.png",
+      "alt": "Tubarão de corpo grande e robusto, com focinho curto, rombudo e arredondado; sendo as fêmeas maiores que os machos.;."
+    },
+    "lat": 37.9715,
+    "lon": 23.7257
+  },
+  {
+    "id": 11,
+    "title": "Tubarão Martelo",
+    "image": {
+      "src": "martelo.png",
+      "alt": "Tubarão caracterizado pelo seu corpo grande e moderadamente esbelto..;."
+    },
+    "lat": 37.9715,
+    "lon": 23.7257
+  },
+  {
+    "id": 12,
+    "title": "Tubarão Limão",
+    "image": {
+      "src": "tubaraolimao.png",
+      "alt": "Tubarão caracterizado pelo seu corpo grande e moderadamente esbelto, cabeça larga com lâminas estreitas e narinas com sulcos pré-nasais fortes..;."
+    },
+    "lat": 37.9715,
+    "lon": 23.7257
+  },
+  {
+    "id": 13,
+    "title": "Cação-corre-corre",
+    "image": {
+      "src": "cassaocorrecorre.png",
+      "alt": "Imagem de Cação-corre-corre"
+    }
+  },
+  {
+    "id": 14,
+    "title": "Tubarão Azul",
+    "image": {
+      "src": "1738843823532-tubaraoazul.png",
+      "alt": "Tubarão Caracterizado pela sua cor Azul"
+    }
+  }
+]
