@@ -118,21 +118,5 @@
     },
     "lat": 37.9715,
     "lon": 23.7257
-  },
-  {
-    "id": 13,
-    "title": "Cação-corre-corre",
-    "image": {
-      "src": "cassaocorrecorre.png",
-      "alt": "Imagem de Cação-corre-corre"
-    }
-  },
-  {
-    "id": 14,
-    "title": "Tubarão Azul",
-    "image": {
-      "src": "1738843823532-tubaraoazul.png",
-      "alt": "Tubarão Caracterizado pela sua cor Azul"
-    }
   }
 ]

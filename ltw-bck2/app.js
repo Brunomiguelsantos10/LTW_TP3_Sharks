@@ -50,9 +50,9 @@ app.put('/user-sharks', async (req, res) => {
 // Rota para adicionar um novo tubarão com imagem
 app.post('/sharks', upload.single('image'), async (req, res) => {
   try {
-    const { title, description } = req.body;
+    const { title, description, lat, lon } = req.body;
     
-    if (!title || !description || !req.file) {
+    if (!title || !description || !lat || !lon || !req.file) {
       return res.status(400).json({ message: 'Todos os campos são obrigatórios.' });
     }
 
@@ -63,6 +63,8 @@ app.post('/sharks', upload.single('image'), async (req, res) => {
       id: sharks.length + 1,
       title,
       image: { src: req.file.filename, alt: description },
+      lat: parseFloat(lat),
+      lon: parseFloat(lon)
     };
 
     sharks.push(newShark);
